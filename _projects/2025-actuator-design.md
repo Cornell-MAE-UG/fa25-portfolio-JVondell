@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: default
 title: Portfolio Problem From HW 4
 description: Actuator Set-Up Design
 technologies:
