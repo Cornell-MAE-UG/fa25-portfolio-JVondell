@@ -12,6 +12,6 @@ The mechanism was required to fit within a 150 cm by 50 cm bounding box and use 
 In the first stage of the design, the bar was modeled as a rigid body. The actuator was treated as a two-force member applying a force along its axis, and all joints were modeled as ideal pins.
 <img src="{{ '/assets/images/part-one.jpg' | relative_url }}" width="500" alt="Part One">
 
-In the second stage, the member was modeled as a simply supported beam. Only the components of the applied load and actuator force transverse to the beam were considered to contribute to bending. There was a maximum allowable deflection of 2% of the beam length was imposed as a design constraint.
+In the second stage, the member was modeled as a simply supported beam. Only the components of the applied load and actuator force transverse to the beam were considered to contribute to bending. A maximum allowable deflection of 2% of the beam length was imposed as a design constraint.
 <img src="{{ '/assets/images/part-two.jpg' | relative_url }}" width="500" alt="Part Two">
 With this cross section, the beam safely supports approximately 62 kN. This is well below the actuator force limit, so beam deflection is the controlling factor. 
