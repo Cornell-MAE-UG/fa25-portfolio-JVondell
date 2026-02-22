@@ -6,12 +6,12 @@ technologies: N/A
 image: /assets/images/bug.jpg
 ---
 
-## Lantern Fly Removal Device Pitch
+## Spotted Lanternfly Removal Device Pitch
 
 Downloadable PDF:  
 [Download the Client Outline and Pitch PDF]({{ "/assets/images/Client-Outline-and-Pitch.pdf" | relative_url }})
 
-Or view it inline below:
+Or view it inline belog:
 
 <iframe src="{{ '/assets/images/Client-Outline-and-Pitch.pdf' | relative_url }}" width="100%" height="800"></iframe>
 
