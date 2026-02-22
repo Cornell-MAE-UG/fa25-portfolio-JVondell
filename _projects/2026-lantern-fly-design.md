@@ -1,7 +1,7 @@
 ---
 layout: default
-title: SLF Removal
-description: Lantern Fly Removal Device Pitch
+title: Spotted Lanternfly Removal
+description: Lanternfly Removal Device Pitch
 technologies: N/A
 image: /assets/images/bug.jpg
 ---
