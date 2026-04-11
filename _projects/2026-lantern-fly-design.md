@@ -32,7 +32,14 @@ Download the Client Pitch PDF
 </a>
 </p>
 
----
+<iframe src="{{ '/assets/images/Client-Outline-and-Pitch.pdf' | relative_url }}" width="100%" height="800"></iframe>
+
+<p>
+If the PDF does not load, 
+<a href="{{ '/assets/images/Client-Outline-and-Pitch.pdf' | relative_url }}">click here to open it</a>.
+</p>
+
+<hr>
 
 <h2 id="functional-prototype">Functional Prototype</h2>
 
@@ -67,4 +74,11 @@ The prototype demonstrates that a vacuum-based approach is feasible, but require
 <a href="{{ '/assets/images/Functional-Prototype.pdf' | relative_url }}">
 Download the Functional Prototype PDF
 </a>
+</p>
+
+<iframe src="{{ '/assets/images/Functional-Prototype.pdf' | relative_url }}" width="100%" height="800"></iframe>
+
+<p>
+If the PDF does not load, 
+<a href="{{ '/assets/images/Functional-Prototype.pdf' | relative_url }}">click here to open it</a>.
 </p>
