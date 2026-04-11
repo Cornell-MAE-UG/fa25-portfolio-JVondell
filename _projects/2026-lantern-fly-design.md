@@ -16,6 +16,8 @@ image: /assets/images/bug.jpg
   </ul>
 </div>
 
+---
+
 <h2 id="client-pitch">Client Pitch</h2>
 
 <p>
@@ -51,23 +53,23 @@ The purpose of the functional prototype was to test whether a vacuum-based devic
 The prototype consists of a fan-driven suction system with a cone inlet, tube, and collection box that captures SLF using airflow. It is designed to be mounted on a harvester and remove insects before grapes are processed.
 </p>
 
-<h3>What We Tested</h3>
+<h4>What We Tested</h4>
 <ul>
   <li>Fan durability under continuous use</li>
   <li>Resistance to debris of varying sizes</li>
   <li>Structural support and load capacity</li>
 </ul>
 
-<h3>Results</h3>
+<h4>Results</h4>
 <ul>
   <li>The fan operated successfully but the shaft showed warping and alignment issues</li>
   <li>Small debris passed through easily, but larger debris caused blade damage</li>
   <li>The mounting system successfully supported over 500g without failure</li>
 </ul>
 
-<h3>Conclusion</h3>
+<h4>Prototype Evaluation & Next Steps</h4>
 <p>
-The prototype demonstrates that a vacuum-based approach is feasible, but requires material and durability improvements before real-world use. Future iterations should include stronger materials and debris filtering.
+The prototype demonstrates that a vacuum-based approach is feasible, but requires material and durability improvements before real-world use. Future iterations should include stronger materials, improved alignment, and a debris filtering system to increase reliability and performance.
 </p>
 
 <p>
