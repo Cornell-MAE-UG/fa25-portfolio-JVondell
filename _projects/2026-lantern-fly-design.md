@@ -13,6 +13,8 @@ image: /assets/images/bug.jpg
   <ul>
     <li><a href="#client-pitch">Client Pitch</a></li>
     <li><a href="#functional-prototype">Functional Prototype</a></li>
+    <li><a href="#client-report">Client Report</a></li>
+    <li><a href="#poster">Project Poster</a></li>
   </ul>
 </div>
 
@@ -35,11 +37,6 @@ Download the Client Pitch PDF
 </p>
 
 <iframe src="{{ '/assets/images/Client-Outline-and-Pitch.pdf' | relative_url }}" width="100%" height="800"></iframe>
-
-<p>
-If the PDF does not load, 
-<a href="{{ '/assets/images/Client-Outline-and-Pitch.pdf' | relative_url }}">click here to open it</a>.
-</p>
 
 <hr>
 
@@ -69,7 +66,7 @@ The prototype consists of a fan-driven suction system with a cone inlet, tube, a
 
 <h4>Prototype Evaluation & Next Steps</h4>
 <p>
-The prototype demonstrates that a vacuum-based approach is feasible, but requires material and durability improvements before real-world use. Future iterations should include stronger materials, improved alignment, and a debris filtering system to increase reliability and performance.
+The prototype demonstrates that a vacuum-based approach is feasible, but requires material and durability improvements before real-world use. Future iterations should include stronger materials, improved alignment, and a debris filtering system.
 </p>
 
 <p>
@@ -80,7 +77,56 @@ Download the Functional Prototype PDF
 
 <iframe src="{{ '/assets/images/Functional-Prototype.pdf' | relative_url }}" width="100%" height="800"></iframe>
 
+<hr>
+
+<h2 id="client-report">Client Report</h2>
+
 <p>
-If the PDF does not load, 
-<a href="{{ '/assets/images/Functional-Prototype.pdf' | relative_url }}">click here to open it</a>.
+Our final solution is a suction-based device designed to remove SLF from grapevines without physical contact. It uses a motor-driven impeller to generate localized airflow, pulling insects into a collection chamber while minimizing risk to grapes and vines.
+</p>
+
+<p>
+The final prototype includes an impeller, circular cone, aluminum mesh filter, motor casing, rechargeable battery, and mounting system for integration with tractors or harvesters. This design allows for efficient, repeatable removal while fitting into existing agricultural workflows.
+</p>
+
+<h4>Key Testing Results</h4>
+<ul>
+  <li>Operated continuously for 30 minutes with no performance drop</li>
+  <li>No internal damage from debris between 1–5 cm and 1–10 g</li>
+  <li>Supported 500g load without structural failure</li>
+  <li>Effective suction range averaged ~1.7 cm, indicating need for stronger suction</li>
+</ul>
+
+<h4>Recommendation & Next Steps</h4>
+<p>
+The design is promising but not yet ready for field deployment. Future work should focus on increasing suction strength, reducing nozzle size, and improving coverage of the vine. Potential solutions include actuator integration, multiple devices, or scaling up the motor and impeller system.
+</p>
+
+<p>
+<a href="{{ '/assets/images/ODP-6-Exhibit-and-Client-Report.pdf' | relative_url }}">
+Download the Client Report PDF
+</a>
+</p>
+
+<iframe src="{{ '/assets/images/ODP-6-Exhibit-and-Client-Report.pdf' | relative_url }}" width="100%" height="800"></iframe>
+
+<hr>
+
+<h2 id="poster">Project Poster</h2>
+
+<p>
+This poster summarizes our full design process, including problem context, prototype evolution, testing results, and final design recommendations. It provides a visual overview of the project and highlights key insights from development.
+</p>
+
+<p>
+<a href="{{ '/assets/images/Poster.pdf' | relative_url }}">
+Download the Project Poster
+</a>
+</p>
+
+<iframe src="{{ '/assets/images/Poster.pdf' | relative_url }}" width="100%" height="800"></iframe>
+
+<p>
+If the poster does not load, 
+<a href="{{ '/assets/images/Poster.pdf' | relative_url }}">click here to open it</a>.
 </p>
